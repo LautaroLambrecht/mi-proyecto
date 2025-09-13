@@ -1,1 +1,1 @@
-<?php echo 'Estoy en rama funcionalidad1'; ?>
+<?php echo Estoy en rama funcionalidad1; ?>
